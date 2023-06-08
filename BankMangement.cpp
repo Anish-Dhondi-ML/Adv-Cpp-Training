@@ -1,7 +1,6 @@
 // 07-06-2023
 /*
 2. Program for banking management system
-
 Using smart pointers -Create a class Bank with the following member functions,
 
 OpenAccount() – It will take input account number, name and opening balance.
