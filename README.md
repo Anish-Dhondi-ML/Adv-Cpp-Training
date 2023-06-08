@@ -8,4 +8,5 @@ Under Guidance of Manasa
 ![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/425f7b09-d262-4dd8-83e7-cc2f048382b8)
 ### Program to create class to read time in seconds and convert into time in (HH:MM:SS) format.
 ![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/587cb05f-6443-4775-b4ba-c83cea17223b)
+### Set date and time in Linux Operating System using C++ program.
 
