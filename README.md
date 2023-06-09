@@ -16,6 +16,8 @@ Under Guidance of Manasa
 ![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/26909d31-2c95-43ae-9aa3-a8b71e790b95)
 ##### After
 ![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/1ac80fca-8329-48bd-aeb9-51c1009d7db5)
+### Reading date and time from Linux operating system using C++ program.
+
 
 
 
