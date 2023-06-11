@@ -18,6 +18,10 @@ Under Guidance of Manasa
 ![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/1ac80fca-8329-48bd-aeb9-51c1009d7db5)
 ### Reading date and time from Linux operating system using C++ program.
 ![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/0972a65d-f8a9-413d-a31e-4029e2e7b273)
+### Write an example program for a Template to cover both map and vector usage.
+![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/eaa47af0-cd97-44e8-8f29-609c1673d9b3)
+![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/2bb7728a-f2f8-4bc3-aae7-5dcef481919c)
+
 
 
 
