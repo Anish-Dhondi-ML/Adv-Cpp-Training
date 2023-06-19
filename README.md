@@ -26,7 +26,8 @@ Under Guidance of Manasa
 ### Multithreading
 ![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/a49c4d45-53ce-491c-8310-7420513d641c)
 ### Build a log parser application - understand singleton class and how to define it.
-![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/47692a55-864f-4c79-9180-50e261873f92)
+![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/db8e938c-a7ec-4a07-952b-bcd3b74b998d)
+
 
 
 
