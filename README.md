@@ -32,6 +32,7 @@ Under Guidance of Manasa
 ### Send and Receive messages using Shared Memory
 ![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/88d593ab-4258-42dc-98a4-8e85fae2dde4)
 ### A Basic Shell Script
+![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/31faa20f-585e-4c35-81b3-39e94083c44d)
 
 
 
