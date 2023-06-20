@@ -30,6 +30,7 @@ Under Guidance of Manasa
 ### program to one thread to print even numbers and other thread to print odd numbers, end result should be in ascending order 0,1,
 #### 0 1 2 3 4 5 6 7 8 9 10 
 ### Send and Receive messages using Shared Memory
+![image](https://github.com/Anish-Dhondi-ML/Adv-Cpp-Training/assets/124239319/88d593ab-4258-42dc-98a4-8e85fae2dde4)
 
 
 
