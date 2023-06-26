@@ -14,6 +14,11 @@ int main() {
     // Generate a unique key for the shared memory segment using the ftok() function. 
     // The key is based on a file name ("shared_memory") and 
     // a project-specific identifier (1234) which can be anything of our choice.
+
+	if (key == -1) {
+    // Key generation failed
+    std::cout << "Key generation failed!" << std::endl;
+}
     
     int shmid = shmget(key, SHM_SIZE, IPC_CREAT | 0666);
     // Create or open the shared memory segment. 
